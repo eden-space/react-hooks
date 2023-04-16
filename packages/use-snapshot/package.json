@@ -1,0 +1,23 @@
+{
+  "name": "@react-hooks/use-snapshot",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "echo \"Error: no build specified\" && exit 0"
+  },
+  "author": {
+    "name": "vimalakirti409",
+    "email": "vimalakirti409@gmail.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/eden-space/react-hooks.git",
+    "directory": "packages/utils"
+  },
+  "license": "ISC",
+  "publishConfig": {
+    "access": "public"
+  }
+}

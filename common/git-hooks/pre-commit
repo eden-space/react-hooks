@@ -1,0 +1,6 @@
+#!/bin/sh
+
+#npm run pretty-quick--staged
+
+npm run lint-staged
+
